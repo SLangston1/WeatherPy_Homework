@@ -1,0 +1,1150 @@
+DEBUG:root:Processing... 6185217,Yarmouth,http://api.openweathermap.org/data/2.5/weather?yarmouth,ca,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?kavieng,pg,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?samusu,ws,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?saleaula,ws,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?barbar,sd,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 5731070,Hermiston,http://api.openweathermap.org/data/2.5/weather?hermiston,us,imperial
+DEBUG:root:Processing... 1791779,Wanning,http://api.openweathermap.org/data/2.5/weather?wanning,cn,imperial
+DEBUG:root:Processing... 1259385,Port Blair,http://api.openweathermap.org/data/2.5/weather?port blair,in,imperial
+DEBUG:root:Processing... 7522928,San Andres,http://api.openweathermap.org/data/2.5/weather?san andres,co,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 6138501,Saint-Augustin,http://api.openweathermap.org/data/2.5/weather?saint-augustin,ca,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 5563839,Fortuna,http://api.openweathermap.org/data/2.5/weather?fortuna,us,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 1528998,Yumen,http://api.openweathermap.org/data/2.5/weather?yumen,cn,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 2411397,Georgetown,http://api.openweathermap.org/data/2.5/weather?georgetown,sh,imperial
+DEBUG:root:Processing... 2071860,Esperance,http://api.openweathermap.org/data/2.5/weather?esperance,au,imperial
+DEBUG:root:Processing... 2729907,Longyearbyen,http://api.openweathermap.org/data/2.5/weather?longyearbyen,sj,imperial
+DEBUG:root:Processing... 2729907,Longyearbyen,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 4252975,Barrow,http://api.openweathermap.org/data/2.5/weather?barrow,us,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?east london,za,imperial
+DEBUG:root:Processing... 256155,Palaikastron,http://api.openweathermap.org/data/2.5/weather?palaikastron,gr,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 3372707,Ribeira Grande,http://api.openweathermap.org/data/2.5/weather?ribeira grande,pt,imperial
+DEBUG:root:Processing... 2126199,Cherskiy,http://api.openweathermap.org/data/2.5/weather?cherskiy,ru,imperial
+DEBUG:root:Processing... 2126199,Cherskiy,http://api.openweathermap.org/data/2.5/weather?sokoni,tz,imperial
+DEBUG:root:Processing... 4021858,Guerrero Negro,http://api.openweathermap.org/data/2.5/weather?guerrero negro,mx,imperial
+DEBUG:root:Processing... 3863379,Mar del Plata,http://api.openweathermap.org/data/2.5/weather?mar del plata,ar,imperial
+DEBUG:root:Processing... 3194510,Nevesinje,http://api.openweathermap.org/data/2.5/weather?nevesinje,ba,imperial
+DEBUG:root:Processing... 1852357,Shimoda,http://api.openweathermap.org/data/2.5/weather?shimoda,jp,imperial
+DEBUG:root:Processing... 1849876,Tateyama,http://api.openweathermap.org/data/2.5/weather?tateyama,jp,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 3424607,Tasiilaq,http://api.openweathermap.org/data/2.5/weather?tasiilaq,gl,imperial
+DEBUG:root:Processing... 1861280,Itoman,http://api.openweathermap.org/data/2.5/weather?itoman,jp,imperial
+DEBUG:root:Processing... 1861280,Itoman,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 2188874,Russell,http://api.openweathermap.org/data/2.5/weather?russell,nz,imperial
+DEBUG:root:Processing... 2396853,Omboue,http://api.openweathermap.org/data/2.5/weather?omboue,ga,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?kavieng,pg,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 1264976,Leh,http://api.openweathermap.org/data/2.5/weather?leh,in,imperial
+DEBUG:root:Processing... 1235846,Matara,http://api.openweathermap.org/data/2.5/weather?matara,lk,imperial
+DEBUG:root:Processing... 2108857,Gizo,http://api.openweathermap.org/data/2.5/weather?gizo,sb,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 2013727,Vanavara,http://api.openweathermap.org/data/2.5/weather?vanavara,ru,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?east london,za,imperial
+DEBUG:root:Processing... 934479,Grand Gaube,http://api.openweathermap.org/data/2.5/weather?grand gaube,mu,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3443061,Chuy,http://api.openweathermap.org/data/2.5/weather?chuy,uy,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2180815,Tuatapere,http://api.openweathermap.org/data/2.5/weather?tuatapere,nz,imperial
+DEBUG:root:Processing... 3416888,Grindavik,http://api.openweathermap.org/data/2.5/weather?grindavik,is,imperial
+DEBUG:root:Processing... 2333451,Kumo,http://api.openweathermap.org/data/2.5/weather?kumo,ng,imperial
+DEBUG:root:Processing... 2109528,Buala,http://api.openweathermap.org/data/2.5/weather?buala,sb,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?kavieng,pg,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 1263311,Mau,http://api.openweathermap.org/data/2.5/weather?mau,in,imperial
+DEBUG:root:Processing... 2032614,Baruun-Urt,http://api.openweathermap.org/data/2.5/weather?baruun-urt,mn,imperial
+DEBUG:root:Processing... 3424607,Tasiilaq,http://api.openweathermap.org/data/2.5/weather?tasiilaq,gl,imperial
+DEBUG:root:Processing... 1624041,Ternate,http://api.openweathermap.org/data/2.5/weather?ternate,id,imperial
+DEBUG:root:Processing... 2152668,Portland,http://api.openweathermap.org/data/2.5/weather?portland,au,imperial
+DEBUG:root:Processing... 5003132,Muskegon,http://api.openweathermap.org/data/2.5/weather?muskegon,us,imperial
+DEBUG:root:Processing... 3424934,Saint-Pierre,http://api.openweathermap.org/data/2.5/weather?saint-pierre,pm,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?bredasdorp,za,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?east london,za,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?yomitan,jp,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 1816751,Beidao,http://api.openweathermap.org/data/2.5/weather?beidao,cn,imperial
+DEBUG:root:Processing... 5053460,Worthington,http://api.openweathermap.org/data/2.5/weather?worthington,us,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2180815,Tuatapere,http://api.openweathermap.org/data/2.5/weather?tuatapere,nz,imperial
+DEBUG:root:Processing... 241131,Victoria,http://api.openweathermap.org/data/2.5/weather?victoria,sc,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 2015306,Tiksi,http://api.openweathermap.org/data/2.5/weather?tiksi,ru,imperial
+DEBUG:root:Processing... 1486371,Yarkovo,http://api.openweathermap.org/data/2.5/weather?yarkovo,ru,imperial
+DEBUG:root:Processing... 1486371,Yarkovo,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 3896218,Castro,http://api.openweathermap.org/data/2.5/weather?castro,cl,imperial
+DEBUG:root:Processing... 3407351,Araioses,http://api.openweathermap.org/data/2.5/weather?araioses,br,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 934322,Mahebourg,http://api.openweathermap.org/data/2.5/weather?mahebourg,mu,imperial
+DEBUG:root:Processing... 2145554,Ulladulla,http://api.openweathermap.org/data/2.5/weather?ulladulla,au,imperial
+DEBUG:root:Processing... 2145554,Ulladulla,http://api.openweathermap.org/data/2.5/weather?vaitupu,wf,imperial
+DEBUG:root:Processing... 2965260,Kilrush,http://api.openweathermap.org/data/2.5/weather?kilrush,ie,imperial
+DEBUG:root:Processing... 2965260,Kilrush,http://api.openweathermap.org/data/2.5/weather?rungata,ki,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?east london,za,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?asau,tv,imperial
+DEBUG:root:Processing... 2525550,Bisignano,http://api.openweathermap.org/data/2.5/weather?bisignano,it,imperial
+DEBUG:root:Processing... 479071,Umba,http://api.openweathermap.org/data/2.5/weather?umba,ru,imperial
+DEBUG:root:Processing... 479071,Umba,http://api.openweathermap.org/data/2.5/weather?vaitupu,wf,imperial
+DEBUG:root:Processing... 934322,Mahebourg,http://api.openweathermap.org/data/2.5/weather?mahebourg,mu,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?leningradskiy,ru,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 1282256,Hithadhoo,http://api.openweathermap.org/data/2.5/weather?hithadhoo,mv,imperial
+DEBUG:root:Processing... 4036284,Alofi,http://api.openweathermap.org/data/2.5/weather?alofi,nu,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 496381,Severnoye,http://api.openweathermap.org/data/2.5/weather?severnoye,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?upernavik,gl,imperial
+DEBUG:root:Processing... 6165406,Thompson,http://api.openweathermap.org/data/2.5/weather?thompson,ca,imperial
+DEBUG:root:Processing... 3421765,Nanortalik,http://api.openweathermap.org/data/2.5/weather?nanortalik,gl,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 2126710,Beringovskiy,http://api.openweathermap.org/data/2.5/weather?beringovskiy,ru,imperial
+DEBUG:root:Processing... 3522013,Nuevo Progreso,http://api.openweathermap.org/data/2.5/weather?nuevo progreso,mx,imperial
+DEBUG:root:Processing... 2618795,Klaksvik,http://api.openweathermap.org/data/2.5/weather?klaksvik,fo,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?airai,pw,imperial
+DEBUG:root:Processing... 1847947,Shingu,http://api.openweathermap.org/data/2.5/weather?shingu,jp,imperial
+DEBUG:root:Processing... 2128975,Nemuro,http://api.openweathermap.org/data/2.5/weather?nemuro,jp,imperial
+DEBUG:root:Processing... 3831208,Qaanaaq,http://api.openweathermap.org/data/2.5/weather?qaanaaq,gl,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 935215,Saint-Philippe,http://api.openweathermap.org/data/2.5/weather?saint-philippe,re,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?khonuu,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 2377457,Nouadhibou,http://api.openweathermap.org/data/2.5/weather?nouadhibou,mr,imperial
+DEBUG:root:Processing... 1072849,Ankazobe,http://api.openweathermap.org/data/2.5/weather?ankazobe,mg,imperial
+DEBUG:root:Processing... 1072849,Ankazobe,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 2018735,Nyurba,http://api.openweathermap.org/data/2.5/weather?nyurba,ru,imperial
+DEBUG:root:Processing... 2018735,Nyurba,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 2018735,Nyurba,http://api.openweathermap.org/data/2.5/weather?tsihombe,mg,imperial
+DEBUG:root:Processing... 2016307,Solnechnyy,http://api.openweathermap.org/data/2.5/weather?solnechnyy,ru,imperial
+DEBUG:root:Processing... 1582886,Dong Hoi,http://api.openweathermap.org/data/2.5/weather?dong hoi,vn,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 6320062,Vila Velha,http://api.openweathermap.org/data/2.5/weather?vila velha,br,imperial
+DEBUG:root:Processing... 6320062,Vila Velha,http://api.openweathermap.org/data/2.5/weather?nizhneyansk,ru,imperial
+DEBUG:root:Processing... 6320062,Vila Velha,http://api.openweathermap.org/data/2.5/weather?barentsburg,sj,imperial
+DEBUG:root:Processing... 3374346,Ponta do Sol,http://api.openweathermap.org/data/2.5/weather?ponta do sol,cv,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 3883457,Lebu,http://api.openweathermap.org/data/2.5/weather?lebu,cl,imperial
+DEBUG:root:Processing... 2126123,Chokurdakh,http://api.openweathermap.org/data/2.5/weather?chokurdakh,ru,imperial
+DEBUG:root:Processing... 3374346,Ponta do Sol,http://api.openweathermap.org/data/2.5/weather?ponta do sol,cv,imperial
+DEBUG:root:Processing... 1865309,Katsuura,http://api.openweathermap.org/data/2.5/weather?katsuura,jp,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 3374210,Sao Filipe,http://api.openweathermap.org/data/2.5/weather?sao filipe,cv,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 5861897,Fairbanks,http://api.openweathermap.org/data/2.5/weather?fairbanks,us,imperial
+DEBUG:root:Processing... 3691582,Talara,http://api.openweathermap.org/data/2.5/weather?talara,pe,imperial
+DEBUG:root:Processing... 1865309,Katsuura,http://api.openweathermap.org/data/2.5/weather?katsuura,jp,imperial
+DEBUG:root:Processing... 1865309,Katsuura,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 1263751,Mangrol,http://api.openweathermap.org/data/2.5/weather?mangrol,in,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 1271936,Fatehabad,http://api.openweathermap.org/data/2.5/weather?fatehabad,in,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 2188874,Russell,http://api.openweathermap.org/data/2.5/weather?russell,nz,imperial
+DEBUG:root:Processing... 2188874,Russell,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 2097418,Finschhafen,http://api.openweathermap.org/data/2.5/weather?finschhafen,pg,imperial
+DEBUG:root:Processing... 5914132,Campbell River,http://api.openweathermap.org/data/2.5/weather?campbell river,ca,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 4031574,Provideniya,http://api.openweathermap.org/data/2.5/weather?provideniya,ru,imperial
+DEBUG:root:Processing... 4031574,Provideniya,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 4031574,Provideniya,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 543508,Kovdor,http://api.openweathermap.org/data/2.5/weather?kovdor,ru,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 470676,Vyazma,http://api.openweathermap.org/data/2.5/weather?vyazma,ru,imperial
+DEBUG:root:Processing... 2657267,Anstruther,http://api.openweathermap.org/data/2.5/weather?anstruther,gb,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?leningradskiy,ru,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 2071860,Esperance,http://api.openweathermap.org/data/2.5/weather?esperance,au,imperial
+DEBUG:root:Processing... 3421719,Narsaq,http://api.openweathermap.org/data/2.5/weather?narsaq,gl,imperial
+DEBUG:root:Processing... 2206894,Hokitika,http://api.openweathermap.org/data/2.5/weather?hokitika,nz,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 4406282,Rolla,http://api.openweathermap.org/data/2.5/weather?rolla,us,imperial
+DEBUG:root:Processing... 178443,Wajir,http://api.openweathermap.org/data/2.5/weather?wajir,ke,imperial
+DEBUG:root:Processing... 2122605,Okhotsk,http://api.openweathermap.org/data/2.5/weather?okhotsk,ru,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3401225,Amapa,http://api.openweathermap.org/data/2.5/weather?amapa,br,imperial
+DEBUG:root:Processing... 644436,Noormarkku,http://api.openweathermap.org/data/2.5/weather?noormarkku,fi,imperial
+DEBUG:root:Processing... 2180815,Tuatapere,http://api.openweathermap.org/data/2.5/weather?tuatapere,nz,imperial
+DEBUG:root:Processing... 2180815,Tuatapere,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 108410,Riyadh,http://api.openweathermap.org/data/2.5/weather?riyadh,sa,imperial
+DEBUG:root:Processing... 108410,Riyadh,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 4021858,Guerrero Negro,http://api.openweathermap.org/data/2.5/weather?guerrero negro,mx,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 2121025,Srednekolymsk,http://api.openweathermap.org/data/2.5/weather?srednekolymsk,ru,imperial
+DEBUG:root:Processing... 2121025,Srednekolymsk,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?kaitangata,nz,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?karaul,ru,imperial
+DEBUG:root:Processing... 2317765,Zaria,http://api.openweathermap.org/data/2.5/weather?zaria,ng,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 2014833,Tura,http://api.openweathermap.org/data/2.5/weather?tura,ru,imperial
+DEBUG:root:Processing... 4034551,Faanui,http://api.openweathermap.org/data/2.5/weather?faanui,pf,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 6320062,Vila Velha,http://api.openweathermap.org/data/2.5/weather?vila velha,br,imperial
+DEBUG:root:Processing... 1505579,Inta,http://api.openweathermap.org/data/2.5/weather?inta,ru,imperial
+DEBUG:root:Processing... 2282827,Oume,http://api.openweathermap.org/data/2.5/weather?oume,ci,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 3412093,Vestmannaeyjar,http://api.openweathermap.org/data/2.5/weather?vestmannaeyjar,is,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2527089,Tiznit,http://api.openweathermap.org/data/2.5/weather?tiznit,ma,imperial
+DEBUG:root:Processing... 2527089,Tiznit,http://api.openweathermap.org/data/2.5/weather?karamay,cn,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?grand river south east,mu,imperial
+DEBUG:root:Processing... 935215,Saint-Philippe,http://api.openweathermap.org/data/2.5/weather?saint-philippe,re,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?upernavik,gl,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 2057087,Kupang,http://api.openweathermap.org/data/2.5/weather?kupang,id,imperial
+DEBUG:root:Processing... 184921,Mwingi,http://api.openweathermap.org/data/2.5/weather?mwingi,ke,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 3939761,Hualmay,http://api.openweathermap.org/data/2.5/weather?hualmay,pe,imperial
+DEBUG:root:Processing... 5882953,Aklavik,http://api.openweathermap.org/data/2.5/weather?aklavik,ca,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?nikolskoye,ru,imperial
+DEBUG:root:Processing... 3831208,Qaanaaq,http://api.openweathermap.org/data/2.5/weather?qaanaaq,gl,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 6170031,Tuktoyaktuk,http://api.openweathermap.org/data/2.5/weather?tuktoyaktuk,ca,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?rolim de moura,br,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 1153269,Hua Hin,http://api.openweathermap.org/data/2.5/weather?hua hin,th,imperial
+DEBUG:root:Processing... 1153269,Hua Hin,http://api.openweathermap.org/data/2.5/weather?nizhneyansk,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2122090,Pevek,http://api.openweathermap.org/data/2.5/weather?pevek,ru,imperial
+DEBUG:root:Processing... 187896,Mandera,http://api.openweathermap.org/data/2.5/weather?mandera,ke,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?arraial do cabo,br,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 1862505,Hirara,http://api.openweathermap.org/data/2.5/weather?hirara,jp,imperial
+DEBUG:root:Processing... 1862505,Hirara,http://api.openweathermap.org/data/2.5/weather?tarudant,ma,imperial
+DEBUG:root:Processing... 2962943,Limerick,http://api.openweathermap.org/data/2.5/weather?limerick,ie,imperial
+DEBUG:root:Processing... 3361934,Saldanha,http://api.openweathermap.org/data/2.5/weather?saldanha,za,imperial
+DEBUG:root:Processing... 3407882,Altamira,http://api.openweathermap.org/data/2.5/weather?altamira,br,imperial
+DEBUG:root:Processing... 3407882,Altamira,http://api.openweathermap.org/data/2.5/weather?bengkulu,id,imperial
+DEBUG:root:Processing... 656083,Jamsa,http://api.openweathermap.org/data/2.5/weather?jamsa,fi,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 1501377,Kungurtug,http://api.openweathermap.org/data/2.5/weather?kungurtug,ru,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 1712961,Gigmoto,http://api.openweathermap.org/data/2.5/weather?gigmoto,ph,imperial
+DEBUG:root:Processing... 3137469,Sorland,http://api.openweathermap.org/data/2.5/weather?sorland,no,imperial
+DEBUG:root:Processing... 3533462,Acapulco,http://api.openweathermap.org/data/2.5/weather?acapulco,mx,imperial
+DEBUG:root:Processing... 6138501,Saint-Augustin,http://api.openweathermap.org/data/2.5/weather?saint-augustin,ca,imperial
+DEBUG:root:Processing... 2964782,Dingle,http://api.openweathermap.org/data/2.5/weather?dingle,ie,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 1250161,Batticaloa,http://api.openweathermap.org/data/2.5/weather?batticaloa,lk,imperial
+DEBUG:root:Processing... 3355672,Luderitz,http://api.openweathermap.org/data/2.5/weather?luderitz,na,imperial
+DEBUG:root:Processing... 2178753,Kirakira,http://api.openweathermap.org/data/2.5/weather?kirakira,sb,imperial
+DEBUG:root:Processing... 579132,Barda,http://api.openweathermap.org/data/2.5/weather?barda,ru,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 986717,Kruisfontein,http://api.openweathermap.org/data/2.5/weather?kruisfontein,za,imperial
+DEBUG:root:Processing... 7671223,Kloulklubed,http://api.openweathermap.org/data/2.5/weather?kloulklubed,pw,imperial
+DEBUG:root:Processing... 461615,Aizkraukle,http://api.openweathermap.org/data/2.5/weather?aizkraukle,lv,imperial
+DEBUG:root:Processing... 4267710,Sitka,http://api.openweathermap.org/data/2.5/weather?sitka,us,imperial
+DEBUG:root:Processing... 5859699,College,http://api.openweathermap.org/data/2.5/weather?college,us,imperial
+DEBUG:root:Processing... 5859699,College,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?hunza,pk,imperial
+DEBUG:root:Processing... 2015306,Tiksi,http://api.openweathermap.org/data/2.5/weather?tiksi,ru,imperial
+DEBUG:root:Processing... 3831208,Qaanaaq,http://api.openweathermap.org/data/2.5/weather?qaanaaq,gl,imperial
+DEBUG:root:Processing... 3831208,Qaanaaq,http://api.openweathermap.org/data/2.5/weather?qaanaaq,gl,imperial
+DEBUG:root:Processing... 3985710,Cabo San Lucas,http://api.openweathermap.org/data/2.5/weather?cabo san lucas,mx,imperial
+DEBUG:root:Processing... 3985710,Cabo San Lucas,http://api.openweathermap.org/data/2.5/weather?khonuu,ru,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 2063039,Port Keats,http://api.openweathermap.org/data/2.5/weather?port keats,au,imperial
+DEBUG:root:Processing... 1528796,At-Bashi,http://api.openweathermap.org/data/2.5/weather?at-bashi,kg,imperial
+DEBUG:root:Processing... 3408424,Ipixuna,http://api.openweathermap.org/data/2.5/weather?ipixuna,br,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3996234,Lazaro Cardenas,http://api.openweathermap.org/data/2.5/weather?lazaro cardenas,mx,imperial
+DEBUG:root:Processing... 3648559,Barcelona,http://api.openweathermap.org/data/2.5/weather?barcelona,ve,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 2067089,Maningrida,http://api.openweathermap.org/data/2.5/weather?maningrida,au,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?east london,za,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 1712961,Gigmoto,http://api.openweathermap.org/data/2.5/weather?gigmoto,ph,imperial
+DEBUG:root:Processing... 3671450,Inirida,http://api.openweathermap.org/data/2.5/weather?inirida,co,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 2013399,Vikhorevka,http://api.openweathermap.org/data/2.5/weather?vikhorevka,ru,imperial
+DEBUG:root:Processing... 3146487,Raudeberg,http://api.openweathermap.org/data/2.5/weather?raudeberg,no,imperial
+DEBUG:root:Processing... 604490,Lulea,http://api.openweathermap.org/data/2.5/weather?lulea,se,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?leningradskiy,ru,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?nikolskoye,ru,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 3463124,Formosa do Rio Preto,http://api.openweathermap.org/data/2.5/weather?formosa do rio preto,br,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3374346,Ponta do Sol,http://api.openweathermap.org/data/2.5/weather?ponta do sol,cv,imperial
+DEBUG:root:Processing... 3896218,Castro,http://api.openweathermap.org/data/2.5/weather?castro,cl,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?saskylakh,ru,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?sinkat,sd,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?vaitupu,wf,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 2027044,Batagay,http://api.openweathermap.org/data/2.5/weather?batagay,ru,imperial
+DEBUG:root:Processing... 5924351,Clyde River,http://api.openweathermap.org/data/2.5/weather?clyde river,ca,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2657928,Zermatt,http://api.openweathermap.org/data/2.5/weather?zermatt,ch,imperial
+DEBUG:root:Processing... 2657928,Zermatt,http://api.openweathermap.org/data/2.5/weather?avera,pf,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?barentsburg,sj,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?ngukurr,au,imperial
+DEBUG:root:Processing... 5983720,Iqaluit,http://api.openweathermap.org/data/2.5/weather?iqaluit,ca,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?nizhneyansk,ru,imperial
+DEBUG:root:Processing... 2264557,Ponta do Sol,http://api.openweathermap.org/data/2.5/weather?ponta do sol,pt,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 3985710,Cabo San Lucas,http://api.openweathermap.org/data/2.5/weather?cabo san lucas,mx,imperial
+DEBUG:root:Processing... 2126123,Chokurdakh,http://api.openweathermap.org/data/2.5/weather?chokurdakh,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?gat,ly,imperial
+DEBUG:root:Processing... 2037485,Erenhot,http://api.openweathermap.org/data/2.5/weather?erenhot,cn,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 4011743,Constitucion,http://api.openweathermap.org/data/2.5/weather?constitucion,mx,imperial
+DEBUG:root:Processing... 3423146,Ilulissat,http://api.openweathermap.org/data/2.5/weather?ilulissat,gl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?arraial do cabo,br,imperial
+DEBUG:root:Processing... 4261585,Mooresville,http://api.openweathermap.org/data/2.5/weather?mooresville,us,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?khonuu,ru,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3372707,Ribeira Grande,http://api.openweathermap.org/data/2.5/weather?ribeira grande,pt,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 2013727,Vanavara,http://api.openweathermap.org/data/2.5/weather?vanavara,ru,imperial
+DEBUG:root:Processing... 1106677,Bambous Virieux,http://api.openweathermap.org/data/2.5/weather?bambous virieux,mu,imperial
+DEBUG:root:Processing... 2126710,Beringovskiy,http://api.openweathermap.org/data/2.5/weather?beringovskiy,ru,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 2297810,Mumford,http://api.openweathermap.org/data/2.5/weather?mumford,gh,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2126199,Cherskiy,http://api.openweathermap.org/data/2.5/weather?cherskiy,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 2027042,Batagay-Alyta,http://api.openweathermap.org/data/2.5/weather?batagay-alyta,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2185329,Waipawa,http://api.openweathermap.org/data/2.5/weather?waipawa,nz,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 3372707,Ribeira Grande,http://api.openweathermap.org/data/2.5/weather?ribeira grande,pt,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 1861416,Ishigaki,http://api.openweathermap.org/data/2.5/weather?ishigaki,jp,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?grand river south east,mu,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 506232,Porosozero,http://api.openweathermap.org/data/2.5/weather?porosozero,ru,imperial
+DEBUG:root:Processing... 3424607,Tasiilaq,http://api.openweathermap.org/data/2.5/weather?tasiilaq,gl,imperial
+DEBUG:root:Processing... 3424607,Tasiilaq,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 6170031,Tuktoyaktuk,http://api.openweathermap.org/data/2.5/weather?tuktoyaktuk,ca,imperial
+DEBUG:root:Processing... 6170031,Tuktoyaktuk,http://api.openweathermap.org/data/2.5/weather?himora,et,imperial
+DEBUG:root:Processing... 2028028,Aksha,http://api.openweathermap.org/data/2.5/weather?aksha,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3896218,Castro,http://api.openweathermap.org/data/2.5/weather?castro,cl,imperial
+DEBUG:root:Processing... 3896218,Castro,http://api.openweathermap.org/data/2.5/weather?airai,pw,imperial
+DEBUG:root:Processing... 3863379,Mar del Plata,http://api.openweathermap.org/data/2.5/weather?mar del plata,ar,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 3372472,Vila Franca do Campo,http://api.openweathermap.org/data/2.5/weather?vila franca do campo,pt,imperial
+DEBUG:root:Processing... 3690608,Zorritos,http://api.openweathermap.org/data/2.5/weather?zorritos,pe,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 1634614,Nabire,http://api.openweathermap.org/data/2.5/weather?nabire,id,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 1280037,Shache,http://api.openweathermap.org/data/2.5/weather?shache,cn,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 3691582,Talara,http://api.openweathermap.org/data/2.5/weather?talara,pe,imperial
+DEBUG:root:Processing... 3863379,Mar del Plata,http://api.openweathermap.org/data/2.5/weather?mar del plata,ar,imperial
+DEBUG:root:Processing... 2014078,Urusha,http://api.openweathermap.org/data/2.5/weather?urusha,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 1263776,Mangan,http://api.openweathermap.org/data/2.5/weather?mangan,in,imperial
+DEBUG:root:Processing... 1263776,Mangan,http://api.openweathermap.org/data/2.5/weather?urumqi,cn,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?kaitangata,nz,imperial
+DEBUG:root:Processing... 2070998,Geraldton,http://api.openweathermap.org/data/2.5/weather?geraldton,au,imperial
+DEBUG:root:Processing... 2070998,Geraldton,http://api.openweathermap.org/data/2.5/weather?faya,td,imperial
+DEBUG:root:Processing... 1497337,Kayerkan,http://api.openweathermap.org/data/2.5/weather?kayerkan,ru,imperial
+DEBUG:root:Processing... 1497337,Kayerkan,http://api.openweathermap.org/data/2.5/weather?alto vera,py,imperial
+DEBUG:root:Processing... 3728097,Les Cayes,http://api.openweathermap.org/data/2.5/weather?les cayes,ht,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?bredasdorp,za,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?podor,sn,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 4407665,Kodiak,http://api.openweathermap.org/data/2.5/weather?kodiak,us,imperial
+DEBUG:root:Processing... 702550,Kulykiv,http://api.openweathermap.org/data/2.5/weather?kulykiv,ua,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 2145554,Ulladulla,http://api.openweathermap.org/data/2.5/weather?ulladulla,au,imperial
+DEBUG:root:Processing... 3855065,General Roca,http://api.openweathermap.org/data/2.5/weather?general roca,ar,imperial
+DEBUG:root:Processing... 1028434,Quelimane,http://api.openweathermap.org/data/2.5/weather?quelimane,mz,imperial
+DEBUG:root:Processing... 3355672,Luderitz,http://api.openweathermap.org/data/2.5/weather?luderitz,na,imperial
+DEBUG:root:Processing... 5768244,Rapid Valley,http://api.openweathermap.org/data/2.5/weather?rapid valley,us,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?saskylakh,ru,imperial
+DEBUG:root:Processing... 3883457,Lebu,http://api.openweathermap.org/data/2.5/weather?lebu,cl,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2171722,Charters Towers,http://api.openweathermap.org/data/2.5/weather?charters towers,au,imperial
+DEBUG:root:Processing... 3443061,Chuy,http://api.openweathermap.org/data/2.5/weather?chuy,uy,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?samusu,ws,imperial
+DEBUG:root:Processing... 4252975,Barrow,http://api.openweathermap.org/data/2.5/weather?barrow,us,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?olafsvik,is,imperial
+DEBUG:root:Processing... 3374210,Sao Filipe,http://api.openweathermap.org/data/2.5/weather?sao filipe,cv,imperial
+DEBUG:root:Processing... 3374210,Sao Filipe,http://api.openweathermap.org/data/2.5/weather?guicheng,cn,imperial
+DEBUG:root:Processing... 1490256,Talnakh,http://api.openweathermap.org/data/2.5/weather?talnakh,ru,imperial
+DEBUG:root:Processing... 1490256,Talnakh,http://api.openweathermap.org/data/2.5/weather?satitoa,ws,imperial
+DEBUG:root:Processing... 3423146,Ilulissat,http://api.openweathermap.org/data/2.5/weather?ilulissat,gl,imperial
+DEBUG:root:Processing... 1219649,Turkmenabat,http://api.openweathermap.org/data/2.5/weather?turkmenabat,tm,imperial
+DEBUG:root:Processing... 241131,Victoria,http://api.openweathermap.org/data/2.5/weather?victoria,sc,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 986717,Kruisfontein,http://api.openweathermap.org/data/2.5/weather?kruisfontein,za,imperial
+DEBUG:root:Processing... 4033543,Teahupoo,http://api.openweathermap.org/data/2.5/weather?teahupoo,pf,imperial
+DEBUG:root:Processing... 2071860,Esperance,http://api.openweathermap.org/data/2.5/weather?esperance,au,imperial
+DEBUG:root:Processing... 2112802,Hasaki,http://api.openweathermap.org/data/2.5/weather?hasaki,jp,imperial
+DEBUG:root:Processing... 3372707,Ribeira Grande,http://api.openweathermap.org/data/2.5/weather?ribeira grande,pt,imperial
+DEBUG:root:Processing... 2092164,Lorengau,http://api.openweathermap.org/data/2.5/weather?lorengau,pg,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 4717275,Palm Valley,http://api.openweathermap.org/data/2.5/weather?palm valley,us,imperial
+DEBUG:root:Processing... 5563839,Fortuna,http://api.openweathermap.org/data/2.5/weather?fortuna,us,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 4944903,Nantucket,http://api.openweathermap.org/data/2.5/weather?nantucket,us,imperial
+DEBUG:root:Processing... 705198,Kompaniyivka,http://api.openweathermap.org/data/2.5/weather?kompaniyivka,ua,imperial
+DEBUG:root:Processing... 705198,Kompaniyivka,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 705198,Kompaniyivka,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 516647,Nyandoma,http://api.openweathermap.org/data/2.5/weather?nyandoma,ru,imperial
+DEBUG:root:Processing... 1496073,Orlik,http://api.openweathermap.org/data/2.5/weather?orlik,ru,imperial
+DEBUG:root:Processing... 3526756,Isla Mujeres,http://api.openweathermap.org/data/2.5/weather?isla mujeres,mx,imperial
+DEBUG:root:Processing... 2126123,Chokurdakh,http://api.openweathermap.org/data/2.5/weather?chokurdakh,ru,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 3466165,Cidreira,http://api.openweathermap.org/data/2.5/weather?cidreira,br,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 3372707,Ribeira Grande,http://api.openweathermap.org/data/2.5/weather?ribeira grande,pt,imperial
+DEBUG:root:Processing... 4732862,Nome,http://api.openweathermap.org/data/2.5/weather?nome,us,imperial
+DEBUG:root:Processing... 2729907,Longyearbyen,http://api.openweathermap.org/data/2.5/weather?longyearbyen,sj,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?leningradskiy,ru,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?codrington,ag,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 3463939,Espinosa,http://api.openweathermap.org/data/2.5/weather?espinosa,br,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 3665098,Barcelos,http://api.openweathermap.org/data/2.5/weather?barcelos,br,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 3372707,Ribeira Grande,http://api.openweathermap.org/data/2.5/weather?ribeira grande,pt,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?bara,sd,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 777019,Vardo,http://api.openweathermap.org/data/2.5/weather?vardo,no,imperial
+DEBUG:root:Processing... 777019,Vardo,http://api.openweathermap.org/data/2.5/weather?mys shmidta,ru,imperial
+DEBUG:root:Processing... 777019,Vardo,http://api.openweathermap.org/data/2.5/weather?halalo,wf,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 3466165,Cidreira,http://api.openweathermap.org/data/2.5/weather?cidreira,br,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 4931273,Brewster,http://api.openweathermap.org/data/2.5/weather?brewster,us,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 2729907,Longyearbyen,http://api.openweathermap.org/data/2.5/weather?longyearbyen,sj,imperial
+DEBUG:root:Processing... 2729907,Longyearbyen,http://api.openweathermap.org/data/2.5/weather?amderma,ru,imperial
+DEBUG:root:Processing... 3836620,San Ramon de la Nueva Oran,http://api.openweathermap.org/data/2.5/weather?san ramon de la nueva oran,ar,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 2137773,Vao,http://api.openweathermap.org/data/2.5/weather?vao,nc,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 6182212,Williams Lake,http://api.openweathermap.org/data/2.5/weather?williams lake,ca,imperial
+DEBUG:root:Processing... 3386213,Touros,http://api.openweathermap.org/data/2.5/weather?touros,br,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?upernavik,gl,imperial
+DEBUG:root:Processing... 2610343,Vestmanna,http://api.openweathermap.org/data/2.5/weather?vestmanna,fo,imperial
+DEBUG:root:Processing... 2610343,Vestmanna,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?saskylakh,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 3137469,Sorland,http://api.openweathermap.org/data/2.5/weather?sorland,no,imperial
+DEBUG:root:Processing... 3865086,Bahia Blanca,http://api.openweathermap.org/data/2.5/weather?bahia blanca,ar,imperial
+DEBUG:root:Processing... 3896218,Castro,http://api.openweathermap.org/data/2.5/weather?castro,cl,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?arraial do cabo,br,imperial
+DEBUG:root:Processing... 1490085,Tarko-Sale,http://api.openweathermap.org/data/2.5/weather?tarko-sale,ru,imperial
+DEBUG:root:Processing... 2027044,Batagay,http://api.openweathermap.org/data/2.5/weather?batagay,ru,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?bredasdorp,za,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 2071860,Esperance,http://api.openweathermap.org/data/2.5/weather?esperance,au,imperial
+DEBUG:root:Processing... 2071860,Esperance,http://api.openweathermap.org/data/2.5/weather?vaitupu,wf,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 5975004,High Level,http://api.openweathermap.org/data/2.5/weather?high level,ca,imperial
+DEBUG:root:Processing... 2126710,Beringovskiy,http://api.openweathermap.org/data/2.5/weather?beringovskiy,ru,imperial
+DEBUG:root:Processing... 2126123,Chokurdakh,http://api.openweathermap.org/data/2.5/weather?chokurdakh,ru,imperial
+DEBUG:root:Processing... 685872,Bagaciu,http://api.openweathermap.org/data/2.5/weather?bagaciu,ro,imperial
+DEBUG:root:Processing... 2294915,Takoradi,http://api.openweathermap.org/data/2.5/weather?takoradi,gh,imperial
+DEBUG:root:Processing... 517958,Novosheshminsk,http://api.openweathermap.org/data/2.5/weather?novosheshminsk,ru,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 3896218,Castro,http://api.openweathermap.org/data/2.5/weather?castro,cl,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 3836669,San Rafael,http://api.openweathermap.org/data/2.5/weather?san rafael,ar,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 559752,Gornozavodsk,http://api.openweathermap.org/data/2.5/weather?gornozavodsk,ru,imperial
+DEBUG:root:Processing... 559752,Gornozavodsk,http://api.openweathermap.org/data/2.5/weather?bolshegrivskoye,ru,imperial
+DEBUG:root:Processing... 1267390,Kavaratti,http://api.openweathermap.org/data/2.5/weather?kavaratti,in,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 1282256,Hithadhoo,http://api.openweathermap.org/data/2.5/weather?hithadhoo,mv,imperial
+DEBUG:root:Processing... 1267390,Kavaratti,http://api.openweathermap.org/data/2.5/weather?kavaratti,in,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 5563839,Fortuna,http://api.openweathermap.org/data/2.5/weather?fortuna,us,imperial
+DEBUG:root:Processing... 3939761,Hualmay,http://api.openweathermap.org/data/2.5/weather?hualmay,pe,imperial
+DEBUG:root:Processing... 741160,Oltu,http://api.openweathermap.org/data/2.5/weather?oltu,tr,imperial
+DEBUG:root:Processing... 739600,Sinop,http://api.openweathermap.org/data/2.5/weather?sinop,tr,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 3571913,Marsh Harbour,http://api.openweathermap.org/data/2.5/weather?marsh harbour,bs,imperial
+DEBUG:root:Processing... 2015306,Tiksi,http://api.openweathermap.org/data/2.5/weather?tiksi,ru,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 1789945,Xiaoweizhai,http://api.openweathermap.org/data/2.5/weather?xiaoweizhai,cn,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?upernavik,gl,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3573197,Hamilton,http://api.openweathermap.org/data/2.5/weather?hamilton,bm,imperial
+DEBUG:root:Processing... 4944903,Nantucket,http://api.openweathermap.org/data/2.5/weather?nantucket,us,imperial
+DEBUG:root:Processing... 917011,Gwembe,http://api.openweathermap.org/data/2.5/weather?gwembe,zm,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 3456248,Nortelandia,http://api.openweathermap.org/data/2.5/weather?nortelandia,br,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?leningradskiy,ru,imperial
+DEBUG:root:Processing... 1178338,Gilgit,http://api.openweathermap.org/data/2.5/weather?gilgit,pk,imperial
+DEBUG:root:Processing... 935215,Saint-Philippe,http://api.openweathermap.org/data/2.5/weather?saint-philippe,re,imperial
+DEBUG:root:Processing... 1726832,Barahan,http://api.openweathermap.org/data/2.5/weather?barahan,ph,imperial
+DEBUG:root:Processing... 1242110,Kalmunai,http://api.openweathermap.org/data/2.5/weather?kalmunai,lk,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 2036069,Linjiang,http://api.openweathermap.org/data/2.5/weather?linjiang,cn,imperial
+DEBUG:root:Processing... 2514651,Los Llanos de Aridane,http://api.openweathermap.org/data/2.5/weather?los llanos de aridane,es,imperial
+DEBUG:root:Processing... 3838859,Rio Gallegos,http://api.openweathermap.org/data/2.5/weather?rio gallegos,ar,imperial
+DEBUG:root:Processing... 1215502,Banda Aceh,http://api.openweathermap.org/data/2.5/weather?banda aceh,id,imperial
+DEBUG:root:Processing... 2122090,Pevek,http://api.openweathermap.org/data/2.5/weather?pevek,ru,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 3985710,Cabo San Lucas,http://api.openweathermap.org/data/2.5/weather?cabo san lucas,mx,imperial
+DEBUG:root:Processing... 4407665,Kodiak,http://api.openweathermap.org/data/2.5/weather?kodiak,us,imperial
+DEBUG:root:Processing... 3868308,Vicuna,http://api.openweathermap.org/data/2.5/weather?vicuna,cl,imperial
+DEBUG:root:Processing... 472490,Volodarskiy,http://api.openweathermap.org/data/2.5/weather?volodarskiy,ru,imperial
+DEBUG:root:Processing... 2028164,Deputatskiy,http://api.openweathermap.org/data/2.5/weather?deputatskiy,ru,imperial
+DEBUG:root:Processing... 1512019,Aksarka,http://api.openweathermap.org/data/2.5/weather?aksarka,ru,imperial
+DEBUG:root:Processing... 1512019,Aksarka,http://api.openweathermap.org/data/2.5/weather?bolungarvik,is,imperial
+DEBUG:root:Processing... 3835994,Santa Rosa,http://api.openweathermap.org/data/2.5/weather?santa rosa,ar,imperial
+DEBUG:root:Processing... 1267390,Kavaratti,http://api.openweathermap.org/data/2.5/weather?kavaratti,in,imperial
+DEBUG:root:Processing... 2154826,Wonthaggi,http://api.openweathermap.org/data/2.5/weather?wonthaggi,au,imperial
+DEBUG:root:Processing... 4033375,Tevaitoa,http://api.openweathermap.org/data/2.5/weather?tevaitoa,pf,imperial
+DEBUG:root:Processing... 3860443,Comodoro Rivadavia,http://api.openweathermap.org/data/2.5/weather?comodoro rivadavia,ar,imperial
+DEBUG:root:Processing... 2332504,Lafiagi,http://api.openweathermap.org/data/2.5/weather?lafiagi,ng,imperial
+DEBUG:root:Processing... 3932145,Pisco,http://api.openweathermap.org/data/2.5/weather?pisco,pe,imperial
+DEBUG:root:Processing... 3932145,Pisco,http://api.openweathermap.org/data/2.5/weather?lasa,cn,imperial
+DEBUG:root:Processing... 3573197,Hamilton,http://api.openweathermap.org/data/2.5/weather?hamilton,bm,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 5354943,Half Moon Bay,http://api.openweathermap.org/data/2.5/weather?half moon bay,us,imperial
+DEBUG:root:Processing... 1282256,Hithadhoo,http://api.openweathermap.org/data/2.5/weather?hithadhoo,mv,imperial
+DEBUG:root:Processing... 456696,Piltene,http://api.openweathermap.org/data/2.5/weather?piltene,lv,imperial
+DEBUG:root:Processing... 4034551,Faanui,http://api.openweathermap.org/data/2.5/weather?faanui,pf,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 4556050,Woodward,http://api.openweathermap.org/data/2.5/weather?woodward,us,imperial
+DEBUG:root:Processing... 3461888,Guarapari,http://api.openweathermap.org/data/2.5/weather?guarapari,br,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 6355222,Yulara,http://api.openweathermap.org/data/2.5/weather?yulara,au,imperial
+DEBUG:root:Processing... 2138555,Poum,http://api.openweathermap.org/data/2.5/weather?poum,nc,imperial
+DEBUG:root:Processing... 3573197,Hamilton,http://api.openweathermap.org/data/2.5/weather?hamilton,bm,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 3870243,Taltal,http://api.openweathermap.org/data/2.5/weather?taltal,cl,imperial
+DEBUG:root:Processing... 1282256,Hithadhoo,http://api.openweathermap.org/data/2.5/weather?hithadhoo,mv,imperial
+DEBUG:root:Processing... 6096551,Pangnirtung,http://api.openweathermap.org/data/2.5/weather?pangnirtung,ca,imperial
+DEBUG:root:Processing... 6096551,Pangnirtung,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2019488,Namtsy,http://api.openweathermap.org/data/2.5/weather?namtsy,ru,imperial
+DEBUG:root:Processing... 2019488,Namtsy,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 2019488,Namtsy,http://api.openweathermap.org/data/2.5/weather?amderma,ru,imperial
+DEBUG:root:Processing... 5972762,Hay River,http://api.openweathermap.org/data/2.5/weather?hay river,ca,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?arraial do cabo,br,imperial
+DEBUG:root:Processing... 3860443,Comodoro Rivadavia,http://api.openweathermap.org/data/2.5/weather?comodoro rivadavia,ar,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 2078025,Adelaide,http://api.openweathermap.org/data/2.5/weather?adelaide,au,imperial
+DEBUG:root:Processing... 4031742,Egvekinot,http://api.openweathermap.org/data/2.5/weather?egvekinot,ru,imperial
+DEBUG:root:Processing... 3899539,Antofagasta,http://api.openweathermap.org/data/2.5/weather?antofagasta,cl,imperial
+DEBUG:root:Processing... 4167499,Palm Bay,http://api.openweathermap.org/data/2.5/weather?palm bay,us,imperial
+DEBUG:root:Processing... 5919850,Chapais,http://api.openweathermap.org/data/2.5/weather?chapais,ca,imperial
+DEBUG:root:Processing... 1337617,Muli,http://api.openweathermap.org/data/2.5/weather?muli,mv,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?palabuhanratu,id,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?louisbourg,ca,imperial
+DEBUG:root:Processing... 310859,Kahramanmaras,http://api.openweathermap.org/data/2.5/weather?kahramanmaras,tr,imperial
+DEBUG:root:Processing... 2012956,Yerbogachen,http://api.openweathermap.org/data/2.5/weather?yerbogachen,ru,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 57000,Hobyo,http://api.openweathermap.org/data/2.5/weather?hobyo,so,imperial
+DEBUG:root:Processing... 57000,Hobyo,http://api.openweathermap.org/data/2.5/weather?amderma,ru,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?bredasdorp,za,imperial
+DEBUG:root:Processing... 1717512,Buluang,http://api.openweathermap.org/data/2.5/weather?buluang,ph,imperial
+DEBUG:root:Processing... 5919850,Chapais,http://api.openweathermap.org/data/2.5/weather?chapais,ca,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 4011743,Constitucion,http://api.openweathermap.org/data/2.5/weather?constitucion,mx,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 4031742,Egvekinot,http://api.openweathermap.org/data/2.5/weather?egvekinot,ru,imperial
+DEBUG:root:Processing... 1267776,Kargil,http://api.openweathermap.org/data/2.5/weather?kargil,in,imperial
+DEBUG:root:Processing... 3863379,Mar del Plata,http://api.openweathermap.org/data/2.5/weather?mar del plata,ar,imperial
+DEBUG:root:Processing... 2986732,Ploemeur,http://api.openweathermap.org/data/2.5/weather?ploemeur,fr,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 4033557,Tautira,http://api.openweathermap.org/data/2.5/weather?tautira,pf,imperial
+DEBUG:root:Processing... 2031964,Darhan,http://api.openweathermap.org/data/2.5/weather?darhan,mn,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 2084442,Vanimo,http://api.openweathermap.org/data/2.5/weather?vanimo,pg,imperial
+DEBUG:root:Processing... 2181625,Te Anau,http://api.openweathermap.org/data/2.5/weather?te anau,nz,imperial
+DEBUG:root:Processing... 2181625,Te Anau,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3520994,Puerto Escondido,http://api.openweathermap.org/data/2.5/weather?puerto escondido,mx,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?nikolskoye,ru,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?acarau,br,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 2276492,Harper,http://api.openweathermap.org/data/2.5/weather?harper,lr,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?bredasdorp,za,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3407407,Aquiraz,http://api.openweathermap.org/data/2.5/weather?aquiraz,br,imperial
+DEBUG:root:Processing... 3137469,Sorland,http://api.openweathermap.org/data/2.5/weather?sorland,no,imperial
+DEBUG:root:Processing... 3137469,Sorland,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 934649,Cap Malheureux,http://api.openweathermap.org/data/2.5/weather?cap malheureux,mu,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 6071900,Melita,http://api.openweathermap.org/data/2.5/weather?melita,ca,imperial
+DEBUG:root:Processing... 3424607,Tasiilaq,http://api.openweathermap.org/data/2.5/weather?tasiilaq,gl,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?bengkulu,id,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 1791636,Weinan,http://api.openweathermap.org/data/2.5/weather?weinan,cn,imperial
+DEBUG:root:Processing... 1106677,Bambous Virieux,http://api.openweathermap.org/data/2.5/weather?bambous virieux,mu,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 4267710,Sitka,http://api.openweathermap.org/data/2.5/weather?sitka,us,imperial
+DEBUG:root:Processing... 6111867,Port Hawkesbury,http://api.openweathermap.org/data/2.5/weather?port hawkesbury,ca,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?nikolskoye,ru,imperial
+DEBUG:root:Processing... 2110227,Butaritari,http://api.openweathermap.org/data/2.5/weather?butaritari,ki,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?laguna,br,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2121385,Severo-Kurilsk,http://api.openweathermap.org/data/2.5/weather?severo-kurilsk,ru,imperial
+DEBUG:root:Processing... 962367,Richards Bay,http://api.openweathermap.org/data/2.5/weather?richards bay,za,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2159220,Mackay,http://api.openweathermap.org/data/2.5/weather?mackay,au,imperial
+DEBUG:root:Processing... 1633419,Padang,http://api.openweathermap.org/data/2.5/weather?padang,id,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 2025256,Chumikan,http://api.openweathermap.org/data/2.5/weather?chumikan,ru,imperial
+DEBUG:root:Processing... 2077895,Alice Springs,http://api.openweathermap.org/data/2.5/weather?alice springs,au,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 1106677,Bambous Virieux,http://api.openweathermap.org/data/2.5/weather?bambous virieux,mu,imperial
+DEBUG:root:Processing... 6255012,Flinders,http://api.openweathermap.org/data/2.5/weather?flinders,au,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?bredasdorp,za,imperial
+DEBUG:root:Processing... 3374083,Bathsheba,http://api.openweathermap.org/data/2.5/weather?bathsheba,bb,imperial
+DEBUG:root:Processing... 3374083,Bathsheba,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 2381334,Atar,http://api.openweathermap.org/data/2.5/weather?atar,mr,imperial
+DEBUG:root:Processing... 2381334,Atar,http://api.openweathermap.org/data/2.5/weather?tsihombe,mg,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?mys shmidta,ru,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?upernavik,gl,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?nikolskoye,ru,imperial
+DEBUG:root:Processing... 2063036,Port Lincoln,http://api.openweathermap.org/data/2.5/weather?port lincoln,au,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 212902,Kindu,http://api.openweathermap.org/data/2.5/weather?kindu,cd,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 5789683,Centralia,http://api.openweathermap.org/data/2.5/weather?centralia,us,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2077895,Alice Springs,http://api.openweathermap.org/data/2.5/weather?alice springs,au,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 1528998,Yumen,http://api.openweathermap.org/data/2.5/weather?yumen,cn,imperial
+DEBUG:root:Processing... 1528998,Yumen,http://api.openweathermap.org/data/2.5/weather?khani,ru,imperial
+DEBUG:root:Processing... 1485020,Znamenskoye,http://api.openweathermap.org/data/2.5/weather?znamenskoye,ru,imperial
+DEBUG:root:Processing... 2514651,Los Llanos de Aridane,http://api.openweathermap.org/data/2.5/weather?los llanos de aridane,es,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 5554428,Ketchikan,http://api.openweathermap.org/data/2.5/weather?ketchikan,us,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 3146487,Maloy,http://api.openweathermap.org/data/2.5/weather?maloy,no,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 240210,Birao,http://api.openweathermap.org/data/2.5/weather?birao,cf,imperial
+DEBUG:root:Processing... 3372707,Ribeira Grande,http://api.openweathermap.org/data/2.5/weather?ribeira grande,pt,imperial
+DEBUG:root:Processing... 1024312,Mocuba,http://api.openweathermap.org/data/2.5/weather?mocuba,mz,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 1538641,Kedrovyy,http://api.openweathermap.org/data/2.5/weather?kedrovyy,ru,imperial
+DEBUG:root:Processing... 1637001,Biak,http://api.openweathermap.org/data/2.5/weather?biak,id,imperial
+DEBUG:root:Processing... 3935624,Macusani,http://api.openweathermap.org/data/2.5/weather?macusani,pe,imperial
+DEBUG:root:Processing... 3935624,Macusani,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 1488903,Turukhansk,http://api.openweathermap.org/data/2.5/weather?turukhansk,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 4034496,Fare,http://api.openweathermap.org/data/2.5/weather?fare,pf,imperial
+DEBUG:root:Processing... 6620339,Karratha,http://api.openweathermap.org/data/2.5/weather?karratha,au,imperial
+DEBUG:root:Processing... 1489853,Tazovskiy,http://api.openweathermap.org/data/2.5/weather?tazovskiy,ru,imperial
+DEBUG:root:Processing... 1507220,Dovolnoye,http://api.openweathermap.org/data/2.5/weather?dovolnoye,ru,imperial
+DEBUG:root:Processing... 2263905,Ribeira Brava,http://api.openweathermap.org/data/2.5/weather?ribeira brava,pt,imperial
+DEBUG:root:Processing... 3709361,Garachine,http://api.openweathermap.org/data/2.5/weather?garachine,pa,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 3685223,Dibulla,http://api.openweathermap.org/data/2.5/weather?dibulla,co,imperial
+DEBUG:root:Processing... 2120591,Tilichiki,http://api.openweathermap.org/data/2.5/weather?tilichiki,ru,imperial
+DEBUG:root:Processing... 3385899,Tutoia,http://api.openweathermap.org/data/2.5/weather?tutoia,br,imperial
+DEBUG:root:Processing... 7647007,San Carlos de Bariloche,http://api.openweathermap.org/data/2.5/weather?san carlos de bariloche,ar,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 3361934,Saldanha,http://api.openweathermap.org/data/2.5/weather?saldanha,za,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?abu samrah,qa,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?tsihombe,mg,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?kaitangata,nz,imperial
+DEBUG:root:Processing... 6111632,Port Alberni,http://api.openweathermap.org/data/2.5/weather?port alberni,ca,imperial
+DEBUG:root:Processing... 1855540,Naze,http://api.openweathermap.org/data/2.5/weather?naze,jp,imperial
+DEBUG:root:Processing... 1337607,Kudahuvadhoo,http://api.openweathermap.org/data/2.5/weather?kudahuvadhoo,mv,imperial
+DEBUG:root:Processing... 5038108,Moorhead,http://api.openweathermap.org/data/2.5/weather?moorhead,us,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 978895,Margate,http://api.openweathermap.org/data/2.5/weather?margate,za,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 3939168,Huarmey,http://api.openweathermap.org/data/2.5/weather?huarmey,pe,imperial
+DEBUG:root:Processing... 6144312,Sept-Iles,http://api.openweathermap.org/data/2.5/weather?sept-iles,ca,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?kaitangata,nz,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 4034551,Faanui,http://api.openweathermap.org/data/2.5/weather?faanui,pf,imperial
+DEBUG:root:Processing... 4034551,Faanui,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 3985168,San Patricio,http://api.openweathermap.org/data/2.5/weather?san patricio,mx,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 6138501,Saint-Augustin,http://api.openweathermap.org/data/2.5/weather?saint-augustin,ca,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 4243951,Marshall,http://api.openweathermap.org/data/2.5/weather?marshall,us,imperial
+DEBUG:root:Processing... 4243951,Marshall,http://api.openweathermap.org/data/2.5/weather?attawapiskat,ca,imperial
+DEBUG:root:Processing... 1486910,Komsomolskiy,http://api.openweathermap.org/data/2.5/weather?komsomolskiy,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 1626493,Srandakan,http://api.openweathermap.org/data/2.5/weather?srandakan,id,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?kaitangata,nz,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 1847947,Shingu,http://api.openweathermap.org/data/2.5/weather?shingu,jp,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 3893629,Coquimbo,http://api.openweathermap.org/data/2.5/weather?coquimbo,cl,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?kavieng,pg,imperial
+DEBUG:root:Processing... 1153035,Kathu,http://api.openweathermap.org/data/2.5/weather?kathu,th,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 285663,Bayan,http://api.openweathermap.org/data/2.5/weather?bayan,kw,imperial
+DEBUG:root:Processing... 6089245,Norman Wells,http://api.openweathermap.org/data/2.5/weather?norman wells,ca,imperial
+DEBUG:root:Processing... 6089245,Norman Wells,http://api.openweathermap.org/data/2.5/weather?saint anthony,ca,imperial
+DEBUG:root:Processing... 2023584,Imeni Poliny Osipenko,http://api.openweathermap.org/data/2.5/weather?imeni poliny osipenko,ru,imperial
+DEBUG:root:Processing... 1106677,Bambous Virieux,http://api.openweathermap.org/data/2.5/weather?bambous virieux,mu,imperial
+DEBUG:root:Processing... 2446796,Bilma,http://api.openweathermap.org/data/2.5/weather?bilma,ne,imperial
+DEBUG:root:Processing... 1648082,Boyolangu,http://api.openweathermap.org/data/2.5/weather?boyolangu,id,imperial
+DEBUG:root:Processing... 3381303,Kourou,http://api.openweathermap.org/data/2.5/weather?kourou,gf,imperial
+DEBUG:root:Processing... 1496503,Noyabrsk,http://api.openweathermap.org/data/2.5/weather?noyabrsk,ru,imperial
+DEBUG:root:Processing... 2126123,Chokurdakh,http://api.openweathermap.org/data/2.5/weather?chokurdakh,ru,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?leningradskiy,ru,imperial
+DEBUG:root:Processing... 2123814,Leningradskiy,http://api.openweathermap.org/data/2.5/weather?grand river south east,mu,imperial
+DEBUG:root:Processing... 2155562,Nelson Bay,http://api.openweathermap.org/data/2.5/weather?nelson bay,au,imperial
+DEBUG:root:Processing... 2108502,Honiara,http://api.openweathermap.org/data/2.5/weather?honiara,sb,imperial
+DEBUG:root:Processing... 1497210,Novoagansk,http://api.openweathermap.org/data/2.5/weather?novoagansk,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?wulanhaote,cn,imperial
+DEBUG:root:Processing... 3932145,Pisco,http://api.openweathermap.org/data/2.5/weather?pisco,pe,imperial
+DEBUG:root:Processing... 2508813,Adrar,http://api.openweathermap.org/data/2.5/weather?adrar,dz,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?upernavik,gl,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 3883457,Lebu,http://api.openweathermap.org/data/2.5/weather?lebu,cl,imperial
+DEBUG:root:Processing... 1529651,Altay,http://api.openweathermap.org/data/2.5/weather?altay,cn,imperial
+DEBUG:root:Processing... 3437443,Pozo Colorado,http://api.openweathermap.org/data/2.5/weather?pozo colorado,py,imperial
+DEBUG:root:Processing... 3863379,Mar del Plata,http://api.openweathermap.org/data/2.5/weather?mar del plata,ar,imperial
+DEBUG:root:Processing... 5924351,Clyde River,http://api.openweathermap.org/data/2.5/weather?clyde river,ca,imperial
+DEBUG:root:Processing... 1857260,Mikuni,http://api.openweathermap.org/data/2.5/weather?mikuni,jp,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 2138555,Poum,http://api.openweathermap.org/data/2.5/weather?poum,nc,imperial
+DEBUG:root:Processing... 3449696,Santo Angelo,http://api.openweathermap.org/data/2.5/weather?santo angelo,br,imperial
+DEBUG:root:Processing... 1490256,Talnakh,http://api.openweathermap.org/data/2.5/weather?talnakh,ru,imperial
+DEBUG:root:Processing... 2012956,Yerbogachen,http://api.openweathermap.org/data/2.5/weather?yerbogachen,ru,imperial
+DEBUG:root:Processing... 572091,Borovoy,http://api.openweathermap.org/data/2.5/weather?borovoy,ru,imperial
+DEBUG:root:Processing... 2229798,Kousseri,http://api.openweathermap.org/data/2.5/weather?kousseri,cm,imperial
+DEBUG:root:Processing... 2381334,Atar,http://api.openweathermap.org/data/2.5/weather?atar,mr,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?mys shmidta,ru,imperial
+DEBUG:root:Processing... 2155562,Nelson Bay,http://api.openweathermap.org/data/2.5/weather?nelson bay,au,imperial
+DEBUG:root:Processing... 3424607,Tasiilaq,http://api.openweathermap.org/data/2.5/weather?tasiilaq,gl,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?nikolskoye,ru,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?arraial do cabo,br,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?angelokastron,gr,imperial
+DEBUG:root:Processing... 3416888,Grindavik,http://api.openweathermap.org/data/2.5/weather?grindavik,is,imperial
+DEBUG:root:Processing... 3693345,Pucallpa,http://api.openweathermap.org/data/2.5/weather?pucallpa,pe,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 2108857,Gizo,http://api.openweathermap.org/data/2.5/weather?gizo,sb,imperial
+DEBUG:root:Processing... 2108857,Gizo,http://api.openweathermap.org/data/2.5/weather?vaitupu,wf,imperial
+DEBUG:root:Processing... 2108857,Gizo,http://api.openweathermap.org/data/2.5/weather?barentsburg,sj,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 478132,Ust-Donetskiy,http://api.openweathermap.org/data/2.5/weather?ust-donetskiy,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2180815,Tuatapere,http://api.openweathermap.org/data/2.5/weather?tuatapere,nz,imperial
+DEBUG:root:Processing... 2654970,Brae,http://api.openweathermap.org/data/2.5/weather?brae,gb,imperial
+DEBUG:root:Processing... 3421765,Nanortalik,http://api.openweathermap.org/data/2.5/weather?nanortalik,gl,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 1695555,Pandan,http://api.openweathermap.org/data/2.5/weather?pandan,ph,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2013375,Vitim,http://api.openweathermap.org/data/2.5/weather?vitim,ru,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 1808744,Hede,http://api.openweathermap.org/data/2.5/weather?hede,cn,imperial
+DEBUG:root:Processing... 1808744,Hede,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 2757220,Den Helder,http://api.openweathermap.org/data/2.5/weather?den helder,nl,imperial
+DEBUG:root:Processing... 1507390,Dikson,http://api.openweathermap.org/data/2.5/weather?dikson,ru,imperial
+DEBUG:root:Processing... 1282256,Hithadhoo,http://api.openweathermap.org/data/2.5/weather?hithadhoo,mv,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?kaitangata,nz,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?rungata,ki,imperial
+DEBUG:root:Processing... 2176639,Batemans Bay,http://api.openweathermap.org/data/2.5/weather?batemans bay,au,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 5848280,Kapaa,http://api.openweathermap.org/data/2.5/weather?kapaa,us,imperial
+DEBUG:root:Processing... 1006984,East London,http://api.openweathermap.org/data/2.5/weather?east london,za,imperial
+DEBUG:root:Processing... 3421765,Nanortalik,http://api.openweathermap.org/data/2.5/weather?nanortalik,gl,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2214433,Nalut,http://api.openweathermap.org/data/2.5/weather?nalut,ly,imperial
+DEBUG:root:Processing... 2214433,Nalut,http://api.openweathermap.org/data/2.5/weather?urumqi,cn,imperial
+DEBUG:root:Processing... 360923,Port Said,http://api.openweathermap.org/data/2.5/weather?port said,eg,imperial
+DEBUG:root:Processing... 2807465,Wismar,http://api.openweathermap.org/data/2.5/weather?wismar,de,imperial
+DEBUG:root:Processing... 1855540,Naze,http://api.openweathermap.org/data/2.5/weather?naze,jp,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 4021858,Guerrero Negro,http://api.openweathermap.org/data/2.5/weather?guerrero negro,mx,imperial
+DEBUG:root:Processing... 3443061,Chuy,http://api.openweathermap.org/data/2.5/weather?chuy,uy,imperial
+DEBUG:root:Processing... 4407665,Kodiak,http://api.openweathermap.org/data/2.5/weather?kodiak,us,imperial
+DEBUG:root:Processing... 2033423,Yebaishou,http://api.openweathermap.org/data/2.5/weather?yebaishou,cn,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?upernavik,gl,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3418910,Upernavik,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 1494276,Poykovskiy,http://api.openweathermap.org/data/2.5/weather?poykovskiy,ru,imperial
+DEBUG:root:Processing... 6147353,Sicamous,http://api.openweathermap.org/data/2.5/weather?sicamous,ca,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?carnarvon,au,imperial
+DEBUG:root:Processing... 2074865,Carnarvon,http://api.openweathermap.org/data/2.5/weather?mys shmidta,ru,imperial
+DEBUG:root:Processing... 4011873,Doctor Arroyo,http://api.openweathermap.org/data/2.5/weather?doctor arroyo,mx,imperial
+DEBUG:root:Processing... 1505991,Igarka,http://api.openweathermap.org/data/2.5/weather?igarka,ru,imperial
+DEBUG:root:Processing... 1505991,Igarka,http://api.openweathermap.org/data/2.5/weather?avera,pf,imperial
+DEBUG:root:Processing... 3355672,Luderitz,http://api.openweathermap.org/data/2.5/weather?luderitz,na,imperial
+DEBUG:root:Processing... 3169539,Recco,http://api.openweathermap.org/data/2.5/weather?recco,it,imperial
+DEBUG:root:Processing... 3141310,Rorvik,http://api.openweathermap.org/data/2.5/weather?rorvik,no,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3347719,Luena,http://api.openweathermap.org/data/2.5/weather?luena,ao,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?saskylakh,ru,imperial
+DEBUG:root:Processing... 4020109,Atuona,http://api.openweathermap.org/data/2.5/weather?atuona,pf,imperial
+DEBUG:root:Processing... 217562,Butembo,http://api.openweathermap.org/data/2.5/weather?butembo,cd,imperial
+DEBUG:root:Processing... 3939168,Huarmey,http://api.openweathermap.org/data/2.5/weather?huarmey,pe,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 5861897,Fairbanks,http://api.openweathermap.org/data/2.5/weather?fairbanks,us,imperial
+DEBUG:root:Processing... 2231320,Garoua,http://api.openweathermap.org/data/2.5/weather?garoua,cm,imperial
+DEBUG:root:Processing... 4407665,Kodiak,http://api.openweathermap.org/data/2.5/weather?kodiak,us,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 3424934,Saint-Pierre,http://api.openweathermap.org/data/2.5/weather?saint-pierre,pm,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 4535961,Enid,http://api.openweathermap.org/data/2.5/weather?enid,us,imperial
+DEBUG:root:Processing... 1056899,Sambava,http://api.openweathermap.org/data/2.5/weather?sambava,mg,imperial
+DEBUG:root:Processing... 3652567,San Cristobal,http://api.openweathermap.org/data/2.5/weather?san cristobal,ec,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 1495586,Parabel,http://api.openweathermap.org/data/2.5/weather?parabel,ru,imperial
+DEBUG:root:Processing... 241131,Victoria,http://api.openweathermap.org/data/2.5/weather?victoria,sc,imperial
+DEBUG:root:Processing... 1168700,Ormara,http://api.openweathermap.org/data/2.5/weather?ormara,pk,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 2136825,Isangel,http://api.openweathermap.org/data/2.5/weather?isangel,vu,imperial
+DEBUG:root:Processing... 3835869,Santiago del Estero,http://api.openweathermap.org/data/2.5/weather?santiago del estero,ar,imperial
+DEBUG:root:Processing... 2029947,Moron,http://api.openweathermap.org/data/2.5/weather?moron,mn,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?kavieng,pg,imperial
+DEBUG:root:Processing... 986717,Kruisfontein,http://api.openweathermap.org/data/2.5/weather?kruisfontein,za,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?avarua,ck,imperial
+DEBUG:root:Processing... 4035715,Avarua,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2126123,Chokurdakh,http://api.openweathermap.org/data/2.5/weather?chokurdakh,ru,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 1865309,Katsuura,http://api.openweathermap.org/data/2.5/weather?katsuura,jp,imperial
+DEBUG:root:Processing... 2017409,Romny,http://api.openweathermap.org/data/2.5/weather?romny,ru,imperial
+DEBUG:root:Processing... 5847411,Kahului,http://api.openweathermap.org/data/2.5/weather?kahului,us,imperial
+DEBUG:root:Processing... 2206939,Bluff,http://api.openweathermap.org/data/2.5/weather?bluff,nz,imperial
+DEBUG:root:Processing... 3939761,Hualmay,http://api.openweathermap.org/data/2.5/weather?hualmay,pe,imperial
+DEBUG:root:Processing... 2170581,Coolum Beach,http://api.openweathermap.org/data/2.5/weather?coolum beach,au,imperial
+DEBUG:root:Processing... 2122783,Katangli,http://api.openweathermap.org/data/2.5/weather?katangli,ru,imperial
+DEBUG:root:Processing... 935215,Saint-Philippe,http://api.openweathermap.org/data/2.5/weather?saint-philippe,re,imperial
+DEBUG:root:Processing... 5855927,Hilo,http://api.openweathermap.org/data/2.5/weather?hilo,us,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?marcona,pe,imperial
+DEBUG:root:Processing... 3443061,Chuy,http://api.openweathermap.org/data/2.5/weather?chuy,uy,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 3374210,Sao Filipe,http://api.openweathermap.org/data/2.5/weather?sao filipe,cv,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 3446087,Tres Passos,http://api.openweathermap.org/data/2.5/weather?tres passos,br,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?arraial do cabo,br,imperial
+DEBUG:root:Processing... 2397674,Ndjole,http://api.openweathermap.org/data/2.5/weather?ndjole,ga,imperial
+DEBUG:root:Processing... 2397674,Ndjole,http://api.openweathermap.org/data/2.5/weather?burica,pa,imperial
+DEBUG:root:Processing... 3162906,Arnes,http://api.openweathermap.org/data/2.5/weather?arnes,no,imperial
+DEBUG:root:Processing... 5972291,Havre-Saint-Pierre,http://api.openweathermap.org/data/2.5/weather?havre-saint-pierre,ca,imperial
+DEBUG:root:Processing... 2071860,Esperance,http://api.openweathermap.org/data/2.5/weather?esperance,au,imperial
+DEBUG:root:Processing... 3141667,Roald,http://api.openweathermap.org/data/2.5/weather?roald,no,imperial
+DEBUG:root:Processing... 2513947,Melilla,http://api.openweathermap.org/data/2.5/weather?melilla,es,imperial
+DEBUG:root:Processing... 6620339,Karratha,http://api.openweathermap.org/data/2.5/weather?karratha,au,imperial
+DEBUG:root:Processing... 964432,Port Alfred,http://api.openweathermap.org/data/2.5/weather?port alfred,za,imperial
+DEBUG:root:Processing... 4252975,Barrow,http://api.openweathermap.org/data/2.5/weather?barrow,us,imperial
+DEBUG:root:Processing... 1486321,Yar-Sale,http://api.openweathermap.org/data/2.5/weather?yar-sale,ru,imperial
+DEBUG:root:Processing... 5024237,Callaway,http://api.openweathermap.org/data/2.5/weather?callaway,us,imperial
+DEBUG:root:Processing... 934479,Grand Gaube,http://api.openweathermap.org/data/2.5/weather?grand gaube,mu,imperial
+DEBUG:root:Processing... 935215,Saint-Philippe,http://api.openweathermap.org/data/2.5/weather?saint-philippe,re,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 241131,Victoria,http://api.openweathermap.org/data/2.5/weather?victoria,sc,imperial
+DEBUG:root:Processing... 2248777,Marsassoum,http://api.openweathermap.org/data/2.5/weather?marsassoum,sn,imperial
+DEBUG:root:Processing... 2071860,Esperance,http://api.openweathermap.org/data/2.5/weather?esperance,au,imperial
+DEBUG:root:Processing... 5972291,Havre-Saint-Pierre,http://api.openweathermap.org/data/2.5/weather?havre-saint-pierre,ca,imperial
+DEBUG:root:Processing... 5972291,Havre-Saint-Pierre,http://api.openweathermap.org/data/2.5/weather?amderma,ru,imperial
+DEBUG:root:Processing... 5972291,Havre-Saint-Pierre,http://api.openweathermap.org/data/2.5/weather?tome-acu,br,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 4920577,Galveston,http://api.openweathermap.org/data/2.5/weather?galveston,us,imperial
+DEBUG:root:Processing... 2012956,Yerbogachen,http://api.openweathermap.org/data/2.5/weather?yerbogachen,ru,imperial
+DEBUG:root:Processing... 1581047,Ha Tinh,http://api.openweathermap.org/data/2.5/weather?ha tinh,vn,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 1849876,Tateyama,http://api.openweathermap.org/data/2.5/weather?tateyama,jp,imperial
+DEBUG:root:Processing... 3352263,Warmbad,http://api.openweathermap.org/data/2.5/weather?warmbad,na,imperial
+DEBUG:root:Processing... 3352263,Warmbad,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3893629,Coquimbo,http://api.openweathermap.org/data/2.5/weather?coquimbo,cl,imperial
+DEBUG:root:Processing... 3893629,Coquimbo,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 6165406,Thompson,http://api.openweathermap.org/data/2.5/weather?thompson,ca,imperial
+DEBUG:root:Processing... 6165406,Thompson,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?saskylakh,ru,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?haibowan,cn,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 167357,Manbij,http://api.openweathermap.org/data/2.5/weather?manbij,sy,imperial
+DEBUG:root:Processing... 4664170,Union City,http://api.openweathermap.org/data/2.5/weather?union city,us,imperial
+DEBUG:root:Processing... 2094342,Kavieng,http://api.openweathermap.org/data/2.5/weather?kavieng,pg,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 2121385,Severo-Kurilsk,http://api.openweathermap.org/data/2.5/weather?severo-kurilsk,ru,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 4004293,Ixtapa,http://api.openweathermap.org/data/2.5/weather?ixtapa,mx,imperial
+DEBUG:root:Processing... 546105,Nikolskoye,http://api.openweathermap.org/data/2.5/weather?nikolskoye,ru,imperial
+DEBUG:root:Processing... 4032243,Vaini,http://api.openweathermap.org/data/2.5/weather?vaini,to,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?attawapiskat,ca,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?amderma,ru,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?olafsvik,is,imperial
+DEBUG:root:Processing... 2618795,Klaksvik,http://api.openweathermap.org/data/2.5/weather?klaksvik,fo,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2075265,Busselton,http://api.openweathermap.org/data/2.5/weather?busselton,au,imperial
+DEBUG:root:Processing... 3831208,Qaanaaq,http://api.openweathermap.org/data/2.5/weather?qaanaaq,gl,imperial
+DEBUG:root:Processing... 7872439,Hall,http://api.openweathermap.org/data/2.5/weather?hall,at,imperial
+DEBUG:root:Processing... 2126123,Chokurdakh,http://api.openweathermap.org/data/2.5/weather?chokurdakh,ru,imperial
+DEBUG:root:Processing... 6170031,Tuktoyaktuk,http://api.openweathermap.org/data/2.5/weather?tuktoyaktuk,ca,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2025256,Chumikan,http://api.openweathermap.org/data/2.5/weather?chumikan,ru,imperial
+DEBUG:root:Processing... 2025256,Chumikan,http://api.openweathermap.org/data/2.5/weather?belushya guba,ru,imperial
+DEBUG:root:Processing... 2119283,Zyryanka,http://api.openweathermap.org/data/2.5/weather?zyryanka,ru,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 2017155,Saskylakh,http://api.openweathermap.org/data/2.5/weather?saskylakh,ru,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?vaitupu,wf,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 6167817,Torbay,http://api.openweathermap.org/data/2.5/weather?torbay,ca,imperial
+DEBUG:root:Processing... 964420,Port Elizabeth,http://api.openweathermap.org/data/2.5/weather?port elizabeth,za,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 1024552,Xai-Xai,http://api.openweathermap.org/data/2.5/weather?xai-xai,mz,imperial
+DEBUG:root:Processing... 3831208,Qaanaaq,http://api.openweathermap.org/data/2.5/weather?qaanaaq,gl,imperial
+DEBUG:root:Processing... 3831208,Qaanaaq,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3393106,Paragominas,http://api.openweathermap.org/data/2.5/weather?paragominas,br,imperial
+DEBUG:root:Processing... 3393106,Paragominas,http://api.openweathermap.org/data/2.5/weather?yate,nc,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3373652,Oistins,http://api.openweathermap.org/data/2.5/weather?oistins,bb,imperial
+DEBUG:root:Processing... 934322,Mahebourg,http://api.openweathermap.org/data/2.5/weather?mahebourg,mu,imperial
+DEBUG:root:Processing... 934322,Mahebourg,http://api.openweathermap.org/data/2.5/weather?emba,kz,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?arraial do cabo,br,imperial
+DEBUG:root:Processing... 3471451,Arraial do Cabo,http://api.openweathermap.org/data/2.5/weather?sentyabrskiy,ru,imperial
+DEBUG:root:Processing... 1278862,Ambajogai,http://api.openweathermap.org/data/2.5/weather?ambajogai,in,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2240449,Luanda,http://api.openweathermap.org/data/2.5/weather?luanda,ao,imperial
+DEBUG:root:Processing... 2240449,Luanda,http://api.openweathermap.org/data/2.5/weather?avera,pf,imperial
+DEBUG:root:Processing... 6185377,Yellowknife,http://api.openweathermap.org/data/2.5/weather?yellowknife,ca,imperial
+DEBUG:root:Processing... 986717,Kruisfontein,http://api.openweathermap.org/data/2.5/weather?kruisfontein,za,imperial
+DEBUG:root:Processing... 2155415,New Norfolk,http://api.openweathermap.org/data/2.5/weather?new norfolk,au,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?codrington,ag,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 1235846,Matara,http://api.openweathermap.org/data/2.5/weather?matara,lk,imperial
+DEBUG:root:Processing... 1235846,Matara,http://api.openweathermap.org/data/2.5/weather?lata,sb,imperial
+DEBUG:root:Processing... 6165406,Thompson,http://api.openweathermap.org/data/2.5/weather?thompson,ca,imperial
+DEBUG:root:Processing... 2240449,Luanda,http://api.openweathermap.org/data/2.5/weather?luanda,ao,imperial
+DEBUG:root:Processing... 1015776,Bredasdorp,http://api.openweathermap.org/data/2.5/weather?bredasdorp,za,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?taolanaro,mg,imperial
+DEBUG:root:Processing... 3438755,Doctor Cecilio Baez,http://api.openweathermap.org/data/2.5/weather?doctor cecilio baez,py,imperial
+DEBUG:root:Processing... 3839307,Rawson,http://api.openweathermap.org/data/2.5/weather?rawson,ar,imperial
+DEBUG:root:Processing... 3460267,Jacutinga,http://api.openweathermap.org/data/2.5/weather?jacutinga,br,imperial
+DEBUG:root:Processing... 4407665,Kodiak,http://api.openweathermap.org/data/2.5/weather?kodiak,us,imperial
+DEBUG:root:Processing... 3567995,Bahia Honda,http://api.openweathermap.org/data/2.5/weather?bahia honda,cu,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?hobart,au,imperial
+DEBUG:root:Processing... 2163355,Hobart,http://api.openweathermap.org/data/2.5/weather?illoqqortoormiut,gl,imperial
+DEBUG:root:Processing... 2112802,Hasaki,http://api.openweathermap.org/data/2.5/weather?hasaki,jp,imperial
+DEBUG:root:Processing... 2729907,Longyearbyen,http://api.openweathermap.org/data/2.5/weather?longyearbyen,sj,imperial
+DEBUG:root:Processing... 1801200,Haimen,http://api.openweathermap.org/data/2.5/weather?haimen,cn,imperial
+DEBUG:root:Processing... 7671223,Kloulklubed,http://api.openweathermap.org/data/2.5/weather?kloulklubed,pw,imperial
+DEBUG:root:Processing... 7671223,Kloulklubed,http://api.openweathermap.org/data/2.5/weather?sentyabrskiy,ru,imperial
+DEBUG:root:Processing... 3369157,Cape Town,http://api.openweathermap.org/data/2.5/weather?cape town,za,imperial
+DEBUG:root:Processing... 3137469,Sorland,http://api.openweathermap.org/data/2.5/weather?sorland,no,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 286621,Salalah,http://api.openweathermap.org/data/2.5/weather?salalah,om,imperial
+DEBUG:root:Processing... 1529484,Hami,http://api.openweathermap.org/data/2.5/weather?hami,cn,imperial
+DEBUG:root:Processing... 1791779,Wanning,http://api.openweathermap.org/data/2.5/weather?wanning,cn,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3652764,Puerto Ayora,http://api.openweathermap.org/data/2.5/weather?puerto ayora,ec,imperial
+DEBUG:root:Processing... 2028164,Deputatskiy,http://api.openweathermap.org/data/2.5/weather?deputatskiy,ru,imperial
+DEBUG:root:Processing... 1024552,Xai-Xai,http://api.openweathermap.org/data/2.5/weather?xai-xai,mz,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 2121025,Srednekolymsk,http://api.openweathermap.org/data/2.5/weather?srednekolymsk,ru,imperial
+DEBUG:root:Processing... 3896218,Castro,http://api.openweathermap.org/data/2.5/weather?castro,cl,imperial
+DEBUG:root:Processing... 2022572,Khatanga,http://api.openweathermap.org/data/2.5/weather?khatanga,ru,imperial
+DEBUG:root:Processing... 1273136,Deulgaon Raja,http://api.openweathermap.org/data/2.5/weather?deulgaon raja,in,imperial
+DEBUG:root:Processing... 917688,Chongwe,http://api.openweathermap.org/data/2.5/weather?chongwe,zm,imperial
+DEBUG:root:Processing... 917688,Chongwe,http://api.openweathermap.org/data/2.5/weather?barentsburg,sj,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?kaitangata,nz,imperial
+DEBUG:root:Processing... 2208248,Kaitangata,http://api.openweathermap.org/data/2.5/weather?burica,pa,imperial
+DEBUG:root:Processing... 3838233,Salta,http://api.openweathermap.org/data/2.5/weather?salta,ar,imperial
+DEBUG:root:Processing... 3874787,Punta Arenas,http://api.openweathermap.org/data/2.5/weather?punta arenas,cl,imperial
+DEBUG:root:Processing... 3663529,Manacapuru,http://api.openweathermap.org/data/2.5/weather?manacapuru,br,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 1865309,Katsuura,http://api.openweathermap.org/data/2.5/weather?katsuura,jp,imperial
+DEBUG:root:Processing... 3366880,Hermanus,http://api.openweathermap.org/data/2.5/weather?hermanus,za,imperial
+DEBUG:root:Processing... 2411397,Georgetown,http://api.openweathermap.org/data/2.5/weather?georgetown,sh,imperial
+DEBUG:root:Processing... 3833367,Ushuaia,http://api.openweathermap.org/data/2.5/weather?ushuaia,ar,imperial
+DEBUG:root:Processing... 3877949,Osorno,http://api.openweathermap.org/data/2.5/weather?osorno,cl,imperial
+DEBUG:root:Processing... 3370903,Jamestown,http://api.openweathermap.org/data/2.5/weather?jamestown,sh,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?albany,au,imperial
+DEBUG:root:Processing... 2077963,Albany,http://api.openweathermap.org/data/2.5/weather?mys shmidta,ru,imperial
+DEBUG:root:Processing... 556268,Ostrovnoy,http://api.openweathermap.org/data/2.5/weather?ostrovnoy,ru,imperial
+DEBUG:root:Processing... 556268,Ostrovnoy,http://api.openweathermap.org/data/2.5/weather?mataura,pf,imperial
+DEBUG:root:Processing... 3385899,Tutoia,http://api.openweathermap.org/data/2.5/weather?tutoia,br,imperial
+DEBUG:root:Processing... 5880568,Bethel,http://api.openweathermap.org/data/2.5/weather?bethel,us,imperial
+DEBUG:root:Processing... 2014624,Udachnyy,http://api.openweathermap.org/data/2.5/weather?udachnyy,ru,imperial
+DEBUG:root:Processing... 2014624,Udachnyy,http://api.openweathermap.org/data/2.5/weather?bengkulu,id,imperial
+DEBUG:root:Processing... 2012530,Zhigansk,http://api.openweathermap.org/data/2.5/weather?zhigansk,ru,imperial
+DEBUG:root:Processing... 3985710,Cabo San Lucas,http://api.openweathermap.org/data/2.5/weather?cabo san lucas,mx,imperial
+DEBUG:root:Processing... 2112802,Hasaki,http://api.openweathermap.org/data/2.5/weather?hasaki,jp,imperial
+DEBUG:root:Processing... 116406,Semirom,http://api.openweathermap.org/data/2.5/weather?semirom,ir,imperial
+DEBUG:root:Processing... 2194098,Ahipara,http://api.openweathermap.org/data/2.5/weather?ahipara,nz,imperial
+DEBUG:root:Processing... 4030556,Rikitea,http://api.openweathermap.org/data/2.5/weather?rikitea,pf,imperial
